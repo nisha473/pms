@@ -1,1 +1,6 @@
 purchaseId,medicineId,supplierId,quantity,unitCost,purchaseDate,invoiceNumber
+1001,1,101,100,2.5,2026-09-20,INV-001
+1002,2,101,80,5.0,2026-09-20,INV-002
+1003,3,102,50,8.0,2026-09-21,INV-003
+1004,4,103,75,6.0,2026-09-21,INV-004
+1005,5,102,60,3.0,2026-09-22,INV-005
